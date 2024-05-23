@@ -1,0 +1,22 @@
+form{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    border: solid white 2px;
+    border-radius: 10px;
+}
+
+label{
+    text-align: left;
+    
+}
+
+input, label{
+    font-size: 20px;
+    margin: 0  10px 0px 10px;
+}
+
+button{
+    width: 150px;
+    
+}

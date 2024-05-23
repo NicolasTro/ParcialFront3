@@ -1,0 +1,15 @@
+.contenedor {
+	border: solid white 2px;
+	text-align: left;
+    background-color: white;
+    /* width: 500px; */
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+h3 {
+	color: black;
+	margin-left: 20px;
+    
+}
